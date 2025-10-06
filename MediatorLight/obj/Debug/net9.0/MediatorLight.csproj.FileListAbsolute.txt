@@ -1,0 +1,11 @@
+D:\exercicios\MediatorLight\MediatorLight\bin\Debug\net9.0\MediatorLight.deps.json
+D:\exercicios\MediatorLight\MediatorLight\bin\Debug\net9.0\MediatorLight.dll
+D:\exercicios\MediatorLight\MediatorLight\bin\Debug\net9.0\MediatorLight.pdb
+D:\exercicios\MediatorLight\MediatorLight\obj\Debug\net9.0\MediatorLight.GeneratedMSBuildEditorConfig.editorconfig
+D:\exercicios\MediatorLight\MediatorLight\obj\Debug\net9.0\MediatorLight.AssemblyInfoInputs.cache
+D:\exercicios\MediatorLight\MediatorLight\obj\Debug\net9.0\MediatorLight.AssemblyInfo.cs
+D:\exercicios\MediatorLight\MediatorLight\obj\Debug\net9.0\MediatorLight.csproj.CoreCompileInputs.cache
+D:\exercicios\MediatorLight\MediatorLight\obj\Debug\net9.0\MediatorLight.dll
+D:\exercicios\MediatorLight\MediatorLight\obj\Debug\net9.0\refint\MediatorLight.dll
+D:\exercicios\MediatorLight\MediatorLight\obj\Debug\net9.0\MediatorLight.pdb
+D:\exercicios\MediatorLight\MediatorLight\obj\Debug\net9.0\ref\MediatorLight.dll

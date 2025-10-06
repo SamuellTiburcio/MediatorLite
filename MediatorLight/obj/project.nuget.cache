@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "dYUBLh0ToyI=",
+  "success": true,
+  "projectFilePath": "D:\\exercicios\\MediatorLight\\MediatorLight\\MediatorLite.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrador\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.9\\microsoft.extensions.dependencyinjection.9.0.9.nupkg.sha512",
+    "C:\\Users\\Administrador\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.9\\microsoft.extensions.dependencyinjection.abstractions.9.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}
